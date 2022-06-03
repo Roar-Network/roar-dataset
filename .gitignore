@@ -1,5 +1,12 @@
 *.7z
 *.csv
+*.zip
+*.rar
+*.gz
+*.bz2
+*.tar
+*.tgz
+*.xz
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
