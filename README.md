@@ -32,3 +32,9 @@ In addition,it was created a preference probabilistic graph, which represent the
 So, we generated 5000 users. A user is created by adding an array of random preferences `k` with different main categories.
 
 Then, the categories that the user likes the most are selected, and they select random roar and they are rated.
+
+## Exploratory Data Analysis
+
+![Visualize users](./img/users.png)
+
+The image below represent a visualization of users preference in two dimension using no-supervised algorithm t-distributed Stochastic Neighbor Embedding.
